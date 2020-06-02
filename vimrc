@@ -50,3 +50,5 @@ let python_highlight_all=1
 syntax on
 
 set nu
+
+au VimEnter *  NERDTree
